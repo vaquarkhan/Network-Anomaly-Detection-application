@@ -36,4 +36,3 @@ The application flow must include the following:
 Input Data Dictionary is csv 
 
 
-https://streamanalytix.com/contest/image/contest-problem.png
